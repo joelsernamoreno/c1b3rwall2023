@@ -1,0 +1,14 @@
+DEMO 1:
+
+https://www.arduino.cc/en/software
+
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+https://github.com/joelsernamoreno/EspTinyUSB
+----------------------------------------------------------------------------------------------
+DEMO 2:
+
+https://github.com/me-no-dev/ESPAsyncWebServer
+
+https://github.com/me-no-dev/AsyncTCP
+..............................................................................................
